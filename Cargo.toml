@@ -1,5 +1,5 @@
 [package]
-name = "minekv"
+name = "MineKV"
 version = "0.1.0"
 authors = ["simon <mingxing_47@126.com>"]
 edition = "2018"
